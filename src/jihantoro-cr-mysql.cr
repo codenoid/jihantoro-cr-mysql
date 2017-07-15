@@ -2,7 +2,7 @@ require "./jihantoro-cr-mysql/*"
 require "db"
 require "mysql"
 
-db = DB.open "mysql://root:ayam@localhost:3306/jihantoro_crmysql"
+db = DB.open "mysql://username:password@localhost:3306/jihantoro_crmysql"
 at_exit { db.close }
 
 friend = "Rouf"
