@@ -1,5 +1,7 @@
-# jihantoro-cr-mysql
-git hub repo for [this tutorial](http://jihantoro.net/read/crystal-mysql-from-scratch)
+# jihantoro-cr-mysql [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/veelenga/awesome-crystal)
+
+github repo for [this tutorial](http://jihantoro.net/read/crystal-mysql-from-scratch)
+
 ## Usage
 ```
 git clone https://github.com/codenoid/jihantoro-cr-mysql
